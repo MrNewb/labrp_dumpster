@@ -18,7 +18,7 @@
 * [mythic_progbar ](https://github.com/HalCroves/mythic_progbar)
 
 **Github**
-* [labrp_dumpster://github.com/stveu/labrp_dumpster)
+* [labrp_dumpster](https://github.com/stveu/labrp_dumpster)
 
 **Showcase**
 * Coming Soon...
