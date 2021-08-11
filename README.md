@@ -5,7 +5,7 @@
 **What is this?**
 
 * This resource allows you to search every dumpster and then apply a cooldown on that specific dumpster
-* This is resource is completely free and open source, so feel free to edit as you wish
+* This resource is completely free and open source, so feel free to edit as you wish
 
 **Features**
 * Cooldown on Individual Dumpsters
