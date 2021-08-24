@@ -7,6 +7,8 @@ Citizen.CreateThread(function()
     end
 end)
 
+local DumpsterCooldown = 7 -- In Minutes
+
 local dumspterModel = {
     218085040,
     666561306,
@@ -85,7 +87,7 @@ end
 
 RegisterNetEvent('dumpster:starttimer')
 AddEventHandler('dumpster:starttimer', function(dumpster)
-    local timer = 7 * 60000
+    local timer = DumpsterCooldown * 60000
     while timer > 0 do
         Wait(1000)
         timer = timer - 1000
