@@ -24,12 +24,8 @@ exports['qtarget']:AddTargetModel(dumspterModel, {
             event = 'dumpsterTrigger',
             icon = 'fas fa-dumpster',
             label = 'Search Dumpster',
-            canInteract = function(entity)
-                return true
-            end
         },
     },
-    job = {'all'},
     distance = 1.5
 })
 
